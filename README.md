@@ -2,6 +2,10 @@
 
 A fully responsive **Netflix Clone** built using **React**, **Vite**, and **Firebase**. This project replicates the basic look and feel of Netflix, including login authentication, featured content, and video player UI.
 
+## 🔗 Live Demo
+
+👉 netflix-sigma-ashy-33.vercel.app
+
 ## 🚀 Features
 
 - 🔐 Firebase Auth (Email login)
