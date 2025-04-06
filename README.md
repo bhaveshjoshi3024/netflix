@@ -4,7 +4,7 @@ A fully responsive **Netflix Clone** built using **React**, **Vite**, and **Fire
 
 ## 🔗 Live Demo
 
-👉 netflix-sigma-ashy-33.vercel.app
+👉 [Click here to view the live site](https://netflix-sigma-ashy-33.vercel.app/)
 
 ## 🚀 Features
 
